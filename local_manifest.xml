@@ -5,7 +5,7 @@
     
     <remote name="evolution" fetch="https://git.evolution-x.org" />
 
-    <remove-project name="vendor/gms" />
+    <remove-project name="vendor_gms" />
 
     <project path="vendor/gms" name="EvoX/vendor_gms" remote="evolution" revision="bka" />
 
